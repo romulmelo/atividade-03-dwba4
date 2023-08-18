@@ -1,0 +1,14 @@
+@import './main.css';
+
+.campaign {
+  margin-left: 3rem;
+}
+
+.campaign img {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.campaign-social-links img {
+  max-width: 48px;
+}
